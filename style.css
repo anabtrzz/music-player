@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    background-color: whitesmoke;
+    display:flex;
+    align-items: center ;
+    justify-content: center;
+   
+}
+
+#player{
+    background-color:black;
+    width:650px;
+    max-width:375px;
+    color:white;
+    text-align: center;
+    height:150px;
+    margin-top: auto;
+    display: flex;
+    box-shadow:0px 0px 10px 0px lightgray;
+    align-items: center;
+    justify-content: center;
+    overflow:none;
+  
+}
+h2{
+    color:whitesmoke;
+}
+.card-content{
+    margin:auto;
+}
