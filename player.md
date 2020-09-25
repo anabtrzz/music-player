@@ -8,7 +8,7 @@
 
 - Moderate:
 
-[] Refatorar = Criar um objeto p/ guardar o estado, funcionalidades e configurações do player.
+[x] Refatorar = Criar um objeto p/ guardar o estado, funcionalidades e configurações do player.
 
 [] Quando o audio finalizar iniciar o próximo da lista.
 
